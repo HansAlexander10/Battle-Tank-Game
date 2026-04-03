@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Battle Tank Game/1.0.0": {
+        "runtime": {
+          "Battle Tank Game.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Battle Tank Game/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

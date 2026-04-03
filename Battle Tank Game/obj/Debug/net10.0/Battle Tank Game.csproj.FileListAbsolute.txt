@@ -1,0 +1,14 @@
+/Users/hansalexander/My Data/Tugas Hans Kuliah/Kuliah Hans Semester 1/Battle Tank Game/bin/Debug/net10.0/Battle Tank Game
+/Users/hansalexander/My Data/Tugas Hans Kuliah/Kuliah Hans Semester 1/Battle Tank Game/bin/Debug/net10.0/Battle Tank Game.deps.json
+/Users/hansalexander/My Data/Tugas Hans Kuliah/Kuliah Hans Semester 1/Battle Tank Game/bin/Debug/net10.0/Battle Tank Game.runtimeconfig.json
+/Users/hansalexander/My Data/Tugas Hans Kuliah/Kuliah Hans Semester 1/Battle Tank Game/bin/Debug/net10.0/Battle Tank Game.dll
+/Users/hansalexander/My Data/Tugas Hans Kuliah/Kuliah Hans Semester 1/Battle Tank Game/bin/Debug/net10.0/Battle Tank Game.pdb
+/Users/hansalexander/My Data/Tugas Hans Kuliah/Kuliah Hans Semester 1/Battle Tank Game/obj/Debug/net10.0/Battle Tank Game.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hansalexander/My Data/Tugas Hans Kuliah/Kuliah Hans Semester 1/Battle Tank Game/obj/Debug/net10.0/Battle Tank Game.AssemblyInfoInputs.cache
+/Users/hansalexander/My Data/Tugas Hans Kuliah/Kuliah Hans Semester 1/Battle Tank Game/obj/Debug/net10.0/Battle Tank Game.AssemblyInfo.cs
+/Users/hansalexander/My Data/Tugas Hans Kuliah/Kuliah Hans Semester 1/Battle Tank Game/obj/Debug/net10.0/Battle Tank Game.csproj.CoreCompileInputs.cache
+/Users/hansalexander/My Data/Tugas Hans Kuliah/Kuliah Hans Semester 1/Battle Tank Game/obj/Debug/net10.0/Battle Tank Game.dll
+/Users/hansalexander/My Data/Tugas Hans Kuliah/Kuliah Hans Semester 1/Battle Tank Game/obj/Debug/net10.0/refint/Battle Tank Game.dll
+/Users/hansalexander/My Data/Tugas Hans Kuliah/Kuliah Hans Semester 1/Battle Tank Game/obj/Debug/net10.0/Battle Tank Game.pdb
+/Users/hansalexander/My Data/Tugas Hans Kuliah/Kuliah Hans Semester 1/Battle Tank Game/obj/Debug/net10.0/Battle Tank Game.genruntimeconfig.cache
+/Users/hansalexander/My Data/Tugas Hans Kuliah/Kuliah Hans Semester 1/Battle Tank Game/obj/Debug/net10.0/ref/Battle Tank Game.dll
