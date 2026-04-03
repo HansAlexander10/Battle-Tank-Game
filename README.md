@@ -2,7 +2,7 @@
 
 ## 🎮 About
 
-Battle Tank Game is a console-based game built with C# where players control a tank to battle against AI-controlled enemies. The game features real-time movement, shooting mechanics, collision detection, and simple AI behavior — all rendered directly in the terminal.
+**Battle Tank Game** is a console-based game built with C# where players control a tank to battle against AI-controlled enemies. The game features real-time movement, shooting mechanics, collision detection, and simple AI behavior — all rendered directly in the terminal.
 
 This project demonstrates core game development concepts, object-oriented programming (OOP), and problem-solving within a text-based environment.
 
